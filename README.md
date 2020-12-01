@@ -30,7 +30,8 @@ This app features all the latest tools and practices in mobile development!
 
 ## Getting started
 
-Download the project and open it on Android Studio.
+- Git clone this repository
+- Open it on Android Studio
 
 
 ## License
